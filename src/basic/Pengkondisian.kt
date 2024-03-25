@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     val a = 9
     if (a % 2 == 0){
