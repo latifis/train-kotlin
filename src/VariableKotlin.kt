@@ -1,3 +1,7 @@
 fun main() {
-    println("Hello World22!")
+
+    // VARIAABLE
+    val name = "Latief"
+    println(name)
+//    name = "Bayu"
 }
